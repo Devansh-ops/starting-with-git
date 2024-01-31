@@ -225,3 +225,12 @@ origin https://github.com/Devansh-ops/starting-with-git.git
 origin https://github.com/Devansh-ops/starting-with-git.git
 (push)
 ```
+---
+## Author Information
+
+**Name:** Devansh Sehgal  
+**Email:** devanshsehgal02@gmail.com  
+**GitHub:** https://github.com/Devansh-ops  
+
+This guide was created by [Devansh Sehgal](mailto:devanshsehgal02@gmail.com) to provide a comprehensive introduction to Git and GitHub.  
+For any queries or further information, feel free to contact via email or GitHub.
