@@ -83,6 +83,18 @@ Run the following command in a new terminal window (existing terminal windows wo
 git --version
 ```
 
+In wsl, you might need to reload the terminal, and / or install some packages
+To reload the terminal
+```bash
+exit
+wsl --shutdown
+wsl
+```
+install the packages missing on trying to push, but mainly
+```bash
+sudo apt update && sudo apt install libice6 -y && sudo apt install libsm6 -y
+```
+
 ## Initial Configuration
 
 **Set Up Your Identity:**
